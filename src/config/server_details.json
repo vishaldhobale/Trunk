@@ -1,0 +1,104 @@
+{
+  "Servers": {
+    "Server1": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    },
+    "Server2": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "32"
+      }
+    },
+    "Server3": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "8GB",
+        "Processor": "i7",
+        "OS": "64"
+      }
+    },
+    "Server4": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    },
+    "Server5": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    },
+    "Server6": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    },
+    "Server7": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    },
+    "Server8": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    },
+    "Server9": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    },
+    "Server10": {
+      "IP": "",
+      "User": "",
+      "Password": "",
+      "Configuration": {
+        "Ram": "4GB",
+        "Processor": "i3",
+        "OS": "64"
+      }
+    }
+  }
+}
