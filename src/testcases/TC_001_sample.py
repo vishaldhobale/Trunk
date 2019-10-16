@@ -1,5 +1,10 @@
+import os
+import sys
 import time
 import unittest
+
+
+sys.path.append(os.getcwd())
 
 
 def add(x, y):
