@@ -1,5 +1,8 @@
+import os
 import unittest
+import sys
 
+sys.path.append(os.getcwd())
 
 def add(x, y):
     return x + y
